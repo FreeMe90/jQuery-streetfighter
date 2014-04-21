@@ -42,8 +42,6 @@ $(document).ready(function() {
 	$(document).keyup(function() {
 		if(event.keyCode == 88) {
 			$(".ryu-still").show();
-			$(".ryu-ready").show();
-			$(".ryu-throwing").show();
 			$(".ryu-cool").hide();
 		}
 	});
