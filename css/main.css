@@ -2,9 +2,20 @@ body {
 	background-color: black;
 }
 
+li {
+	font-weight: bold;
+	color: red;
+	font-family: garamond;
+	text-align: center;
+}
+
+.instructions {
+	margin-top: 60px;
+}
+
 .main {
 	background-color: white;
-	margin-top: 110px;
+	margin-top: 10px;
 	padding-left: 100px;
 	min-width: 1200px;
 	height: 500px;
